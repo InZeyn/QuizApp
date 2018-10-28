@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">QuizAppX</string>
+    <string name="btnStartName">Empezar</string>
+    <string name="secondQuestionHint">Second Question</string>
+    <string name="thirdQuestionHint">Third Question</string>
+    <string name="firstQuestionHint">First Question</string>
+    <string name="fourthQuestionHint">Fourth Question</string>
+    <string name="btnNextName">Siguiente</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="scoreSetup">Score:</string>
+    <string name="scoreEnd">pts</string>
+    <string name="initScore">Score: 0pts</string>
+    <string name="start_again">Finalizar</string>
+    <string name="finalScore">Score Final:</string>
+
+    <string name="q1">Del agua soy, tierra y aire cuando de andar me canso, si se me antoja vuelo, si se me antoja nado.</string>
+    <string name="ans11">Ganzo</string>
+    <string name="ans12">Pato</string>
+    <string name="ans13">Pez Volador</string>
+    <string name="ans14">Delfin</string>
+    <string name="ans1">Pato</string>
+
+    <string name="q2">Antes huevecito, después capullito, más tarde volaré como un pajarito.</string>
+    <string name="ans21">Mariposa</string>
+    <string name="ans22">Lagartija</string>
+    <string name="ans23">Ardilla</string>
+    <string name="ans24">Paloma</string>
+    <string name="ans2">Mariposa</string>
+
+    <string name="q3">No es cama, ni es león y desaparece en cualquier rincón.</string>
+    <string name="ans31">Tigre</string>
+    <string name="ans32">Zebra</string>
+    <string name="ans33">Camaleon</string>
+    <string name="ans34">Canguro</string>
+    <string name="ans3">Camaleon</string>
+
+    <string name="q4">Canto en la orilla, vivo en el agua, no soy pescado, ni soy cigarra.</string>
+    <string name="ans41">Rana</string>
+    <string name="ans42">Cocodrilo</string>
+    <string name="ans43">Elefante</string>
+    <string name="ans44">Hipopotamo</string>
+    <string name="ans4">Rana</string>
+
+    <string name="q5">Es negro como un curita y no se cansa de hacer bolitas.</string>
+    <string name="ans51">Gato</string>
+    <string name="ans52">Escarabajo</string>
+    <string name="ans53">Armadillo</string>
+    <string name="ans54">Hormiga</string>
+    <string name="ans5">Escarabajo</string>
+
+    <string name="finalSetup">\nHas contestado correctamente</string>
+    <string name="finalEnd">de 5</string>
+
+</resources>
